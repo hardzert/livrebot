@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8 -*-
-from pydoc import resolve
+
 import sys
 
 import tweepy
