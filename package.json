@@ -1,0 +1,16 @@
+{
+  "name": "bookbot",
+  "version": "1.0.0",
+  "description": "programme publiant sur twitter des parties de livre",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "livre",
+    "twitter",
+    "bot"
+  ],
+  "author": "hardzert",
+  "license": "ISC"
+}
